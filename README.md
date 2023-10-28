@@ -4,6 +4,8 @@
     alt="rust-analyzer logo">
 </p>
 
+⚠ This is a fork of rust-analyzer for the purpose of disabling certain error notifications in the VSCode extension. It's published as `jprochazk.rust-analyzer-2`, and you must have the `rust-analyzer` component installed via `rustup` (`rustup component add rust-analyzer`).
+
 rust-analyzer is a modular compiler frontend for the Rust language.
 It is a part of a larger rls-2.0 effort to create excellent IDE support for Rust.
 

@@ -14,7 +14,7 @@ export type RunnableEnvCfgItem = {
 export type RunnableEnvCfg = undefined | Record<string, string> | RunnableEnvCfgItem[];
 
 export class Config {
-    readonly extensionId = "rust-lang.rust-analyzer";
+    readonly extensionId = "jprochazk.rust-analyzer-2";
     configureLang: vscode.Disposable | undefined;
 
     readonly rootSection = "rust-analyzer";
