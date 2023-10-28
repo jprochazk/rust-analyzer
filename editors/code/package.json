@@ -4,7 +4,7 @@
     "description": "Fork of rust-analyzer vscode extension. Do not use this!",
     "private": true,
     "icon": "icon.png",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "releaseTag": null,
     "publisher": "jprochazk",
     "repository": {
